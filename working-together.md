@@ -30,7 +30,7 @@
 
 [Короткий бриф](project-brief.md) можно использовать как основу сообщения. Первый разговор бесплатный, ответ — в течение 48 часов.
 
-**[Telegram](https://t.me/cktlabs)** · [Email основателя](mailto:nickolaychekotko@gmail.com).
+**[Форма связи](https://cktlabs.ru/ru/contact?utm_source=github&utm_medium=showcase&utm_campaign=project_inquiry)** · [Email основателя](mailto:nickolaychekotko@gmail.com).
 
 ---
 

@@ -30,7 +30,7 @@ We deploy the system, hand over source code, documentation, and operating instru
 
 Use the [short project brief](project-brief.md) as a starting point. The initial scoping conversation is free; we respond within 48 hours.
 
-**[Email the founder](mailto:nickolaychekotko@gmail.com)** · [Telegram](https://t.me/cktlabs).
+**[Email the founder](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs).
 
 ---
 

@@ -4,7 +4,7 @@
 
 Workflow automation, digital products, fintech, AI, and security. Explore delivered projects and how we work with your team.
 
-**[Discuss your project →](mailto:nickolaychekotko@gmail.com)** · [Telegram](https://t.me/cktlabs)
+**[Discuss your project →](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs)
 
 ## Find a relevant case
 
@@ -35,4 +35,4 @@ Each case explains the problem and solution and links to the original publicatio
 
 A short message is enough: your goal, the current process or system, and important constraints. We can sign an NDA before discussing confidential details. The initial scoping conversation is free; we respond within 48 hours.
 
-**[Email the founder](mailto:nickolaychekotko@gmail.com)** · [Telegram](https://t.me/cktlabs) · [Short project brief](en/project-brief.md) · [Meet the team](https://cktlabs.ru/en/team)
+**[Email the founder](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs) · [Short project brief](en/project-brief.md) · [Meet the team](https://cktlabs.ru/en/team)

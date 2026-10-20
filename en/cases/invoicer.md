@@ -24,7 +24,7 @@ FastAPI · PostgreSQL · React · 1C.
 
 ## Next step
 
-[Email the founder](mailto:nickolaychekotko@gmail.com) · [Telegram](https://t.me/cktlabs) · [What to include](../project-brief.md).
+[Email the founder](mailto:nickolaychekotko@gmail.com) · [Telegram channel](https://t.me/cktlabs) · [What to include](../project-brief.md).
 
 ---
 

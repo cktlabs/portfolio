@@ -4,7 +4,7 @@
 
 Автоматизация процессов, цифровые продукты, финтех, AI и безопасность. Здесь — примеры реализованных проектов и порядок работы с нашей командой.
 
-**[Обсудить вашу задачу →](https://t.me/cktlabs)** · [Email основателя](mailto:nickolaychekotko@gmail.com)
+**[Обсудить вашу задачу →](mailto:nickolaychekotko@gmail.com?subject=CKT%20Labs%20%E2%80%94%20GitHub%20project)** · [Контакты на сайте](https://cktlabs.ru/ru/contact?utm_source=github&utm_medium=showcase&utm_campaign=project_inquiry)
 
 ## Найдите похожую задачу
 
@@ -35,4 +35,4 @@
 
 Достаточно короткого сообщения: что нужно изменить, как процесс устроен сейчас и какие ограничения важны. NDA — до обсуждения конфиденциальных деталей. Первый разговор бесплатный; ответ — в течение 48 часов.
 
-**[Telegram](https://t.me/cktlabs)** · [nickolaychekotko@gmail.com](mailto:nickolaychekotko@gmail.com) · [Короткий бриф](project-brief.md) · [Команда](https://cktlabs.ru/ru/team)
+**[Telegram-канал](https://t.me/cktlabs)** · [nickolaychekotko@gmail.com](mailto:nickolaychekotko@gmail.com) · [Короткий бриф](project-brief.md) · [Команда](https://cktlabs.ru/ru/team)

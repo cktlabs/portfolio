@@ -24,7 +24,7 @@ Python · FastAPI · React · WebSockets.
 
 ## Следующий шаг
 
-[Обсудить похожую задачу в Telegram](https://t.me/cktlabs) · [Написать основателю](mailto:nickolaychekotko@gmail.com) · [Что включить в запрос](../project-brief.md).
+[Обсудить похожую задачу](https://cktlabs.ru/ru/contact?utm_source=github&utm_medium=showcase&utm_campaign=project_inquiry) · [Написать основателю](mailto:nickolaychekotko@gmail.com) · [Что включить в запрос](../project-brief.md).
 
 ---
 

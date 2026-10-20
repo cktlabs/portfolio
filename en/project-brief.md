@@ -16,6 +16,6 @@ A free-form message is fine. You do not need to answer every question.
 
 This is an illustrative request.
 
-**[Email the founder](mailto:nickolaychekotko@gmail.com)** · [Telegram](https://t.me/cktlabs).
+**[Email the founder](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs).
 
 Confidential documents can be discussed after an NDA is agreed.

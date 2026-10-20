@@ -16,6 +16,6 @@
 
 Это иллюстративный пример запроса.
 
-**[Отправить сообщение в Telegram](https://t.me/cktlabs)** · [Написать на email](mailto:nickolaychekotko@gmail.com).
+**[Отправить запрос через сайт](https://cktlabs.ru/ru/contact?utm_source=github&utm_medium=showcase&utm_campaign=project_inquiry)** · [Написать на email](mailto:nickolaychekotko@gmail.com).
 
 Конфиденциальные документы обсуждаем после согласования NDA.
