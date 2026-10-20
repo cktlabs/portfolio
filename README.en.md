@@ -6,6 +6,8 @@ Workflow automation, digital products, fintech, AI, and security. Explore delive
 
 **[Discuss your project →](mailto:nickolaychekotko@gmail.com)** · [Telegram channel](https://t.me/cktlabs)
 
+**Share with your team:** [one-page overview (EN)](brief/CKT_Labs_Overview_EN.pdf) · [RU](brief/CKT_Labs_Overview_RU.pdf).
+
 ## Find a relevant case
 
 | Your situation | Relevant work | Published outcome or scope |

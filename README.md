@@ -6,6 +6,8 @@
 
 **[Обсудить вашу задачу →](mailto:nickolaychekotko@gmail.com?subject=CKT%20Labs%20%E2%80%94%20GitHub%20project)** · [Контакты на сайте](https://cktlabs.ru/ru/contact?utm_source=github&utm_medium=showcase&utm_campaign=project_inquiry)
 
+**Для пересылки коллегам:** [карточка команды (RU)](brief/CKT_Labs_Overview_RU.pdf) · [EN](brief/CKT_Labs_Overview_EN.pdf).
+
 ## Найдите похожую задачу
 
 | Ваша ситуация | Наш опыт | Результат или масштаб |
